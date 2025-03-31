@@ -14,6 +14,7 @@ You can use it from my site for free, but note that it is already trained: https
 You have two options for downloading
 - CLI version
 - GUI (web server)
+  
 **CLI version:** If you want to use the CLI version, all you have to do is download main.py and whoila! That's it!
 
 **WEB version:** Need flask to work. Download the web-app.py script and start it, then connect to 127.0.1:5000 and play!
